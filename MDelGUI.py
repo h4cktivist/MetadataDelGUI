@@ -30,3 +30,5 @@ message_button = Button(text="Delete Metadata", command=delete)
 message_button.pack()
  
 root.mainloop()
+
+# created by h4cktivist
