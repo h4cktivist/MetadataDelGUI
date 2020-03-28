@@ -3,7 +3,7 @@ New version of MetadataDeleter (https://github.com/h4cktivist/MetadataDeleter). 
 
 This small Python program can delete all metadata from your image.
 Using:
-1. Replace .py file to your image directory;
+1. Place .py file to your image directory;
 2. Start MDelGUI.py
 
 P.S Also, module PIL and Python-tk must be installed
