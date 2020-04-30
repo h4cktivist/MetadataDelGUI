@@ -1,5 +1,4 @@
 # MetadataDelGUI
-New version of MetadataDeleter (https://github.com/h4cktivist/MetadataDeleter). Now with Graphical User Interface 
 
 This small Python program can delete all metadata from your image.
 Using:
